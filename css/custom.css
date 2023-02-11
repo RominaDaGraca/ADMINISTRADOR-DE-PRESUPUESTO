@@ -1,8 +1,10 @@
 body {
     background-image: url(../imagen/christine-roy-ir5MHI6rPg0-unsplash.jpg);
-    background-size: 100% auto;
-    background-position: center top;
+    background-position: center center;
     background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: rgba(243, 243, 247, 0.6);
 
 }
 header {

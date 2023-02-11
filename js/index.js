@@ -1,3 +1,5 @@
+
+
 // Variables y selectores
 const formulario=document.getElementById("agregar-gasto");
 const gastoListado=document.querySelector("#gastos ul");
